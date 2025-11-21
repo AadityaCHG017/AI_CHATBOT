@@ -46,14 +46,13 @@ pip install -r requirements.txt
 
 Create a .env file:
 
-TWILIO_ACCOUNT_SID=xxxxxxxx
-TWILIO_AUTH_TOKEN=xxxxxxxx
-TWILIO_PHONE_NUMBER=+12345678
-MY_WHATSAPP_NUMBER=whatsapp:+91xxxxxxxx
-MYSQL_HOST=127.0.0.1
-MYSQL_USER=root
-MYSQL_PASSWORD=xxxxxxx
-MYSQL_DATABASE=health_db
+TWILIO_ACCOUNT_SID = "your_sid_here"
+TWILIO_AUTH_TOKEN = "your_token_here"
+TWILIO_PHONE_NUMBER = "+12345678"
+MYSQL_HOST = "localhost"
+MYSQL_USER = "root"
+MYSQL_PASSWORD = "your_password"
+MYSQL_DATABASE = "health_db"
 
 
 ⸻
@@ -73,7 +72,7 @@ http://127.0.0.1:5000
 	•	Python / Flask
 	•	Twilio REST API
 	•	MySQL
-	•	dotenv
+	•	Virtual Environment(venv)
 
 ⸻
 
