@@ -80,10 +80,3 @@ http://127.0.0.1:5000
 
 Feel free to create issues or submit pull requests.
 
-
-If you want, I can:
-
--Add screenshots / API routes section  
--Write a more advanced README
-
-Just tell me!
